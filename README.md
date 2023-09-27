@@ -6,3 +6,8 @@ This simulation uses the tkinter library to display the result in a window. If y
 ```
 sudo apt install python3-tk
 ```
+
+Once you have either cloned the repo or downloaded the file, you can run it by simply proceeding to the file's directory and typing the following:
+```
+python3 main.py
+```
